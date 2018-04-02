@@ -4,7 +4,9 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
-## 02-04-2017: [GitPrime](https://www.gitprime.com/product/)
+## [GitPrime](https://www.gitprime.com/product/)
+
+Date: 02-04-2017
 
 I listened to a podcast on
 [Measuring Software Engineering Productivity](http://www.se-radio.net/2018/02/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity/)
