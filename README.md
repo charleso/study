@@ -9,4 +9,5 @@ anyone else and probably won't make sense.
 - [SCM](scm.md)
 - [Build](build.md)
 - [UI](ui.md)
+- [Issues](issues.md)
 - [Orchestration](orchestration.md)
