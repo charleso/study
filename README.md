@@ -5,6 +5,7 @@ Just my random, study notes for technical interests.  This is not intended for
 anyone else and probably won't make sense.
 
 - [Inbox](inbox.md)
+- [Outbox](outbox.md)
 - [Papers](papers.md)
 - [SCM](scm.md)
 - [Build](build.md)
