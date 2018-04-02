@@ -10,4 +10,5 @@ anyone else and probably won't make sense.
 - [Build](build.md)
 - [UI](ui.md)
 - [Issues](issues.md)
-- [Orchestration](orchestration.md)
+- [Teams](teams.md)
+- [Infrastructre](infrastructure.md)
