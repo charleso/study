@@ -4,6 +4,23 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## 02-04-2017: [GitPrime](https://www.gitprime.com/product/)
+
+I listened to a podcast on
+[Measuring Software Engineering Productivity](http://www.se-radio.net/2018/02/se-radio-episode-317-travis-kimmel-on-measuring-software-engineering-productivity/)
+which was with [Travis Kimmel](https://twitter.com/traviskimmel) about GitPrime.
+
+It seemed like the emphasis was on using metrics to help the engineering team,
+rather than a way for the HR department to harass people. Any insights gained
+would then be communicated indirectly via the engineering manager to the rest
+of the management team.
+
+There was a good section on the tradeoffs when making a small feature change,
+like changing a button colour, which results in a developer doing a refactor.
+GitPrime can provide metrics that can highlight this to the team lead and
+can help with starting a discussion about the best way to tackle the change.
+
+
 ## https://www.infoq.com/presentations/facebook-stream-processing
 
 - Puma for stream
