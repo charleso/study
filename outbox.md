@@ -4,6 +4,19 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## [Incrementally Improving The DOM](http://blog.functorial.com/posts/2018-04-08-Incrementally-Improving-The-DOM.html)
+
+Date: 12:-04-2017
+
+Very interesting idea about only computing and applying differences
+to the DOM.
+
+I'm not quite sure how it would handle interacting with an unsafe world
+(ie CodeMirror). I think you could probably replace the [element text]
+(https://github.com/paf31/purescript-purview/blob/7031081163f0bd6c131099b8bbcfc38af51579d5/src/Purview.purs#L50)
+value with a DOM node for those cases. I'm not sure though.
+
+
 ## [GitPrime](https://www.gitprime.com/product/)
 
 Date: 02-04-2017
