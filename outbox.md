@@ -4,9 +4,23 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## [Paginators are Mealy Machines in disguise](http://www.alfredodinapoli.com/posts/2016-09-10-paginators-are-mealy-machines-in-disguise.html)
+
+Date: 13-04-2017
+
+Getting ready for a potential talk.
+I'm just trying to work out if there's a (useful) unification of a
+simple backwards/forwards pager vs one with offsets for direct access.
+Or would you just have different paging data types.
+ 
+- https://github.com/ekmett/machines/blob/master/src/Data/Machine/Mealy.hs
+- https://www.reddit.com/r/haskell/comments/5247w2/paginators_are_mealy_machines_in_disguise/
+- http://conway.rutgers.edu/~ccshan/wiki/blog/posts/WalkZip3/
+
+
 ## [Incrementally Improving The DOM](http://blog.functorial.com/posts/2018-04-08-Incrementally-Improving-The-DOM.html)
 
-Date: 12:-04-2017
+Date: 12-04-2017
 
 Very interesting idea about only computing and applying differences
 to the DOM.
