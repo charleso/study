@@ -4,6 +4,25 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## Nix Stuffing Around
+
+I couldn't mount a `/nix` volume without errors from the installer and
+eventually I gave up. I ended up using this:
+
+- http://datakurre.pandala.org/2015/11/nix-in-docker-best-of-both-worlds.html
+- https://gist.github.com/datakurre/a5d95794ce73c28f6d2f
+
+I'm trying to learn Nix a little better this time around.
+
+- https://github.com/shajra/example-nix
+- https://github.com/Gabriel439/haskell-nix
+
+I ended up install `ghcid` with:
+
+```sh
+nix-env -f '<nixpkg>' -iA 'haskellPackages.ghcid'
+```
+
 ## [Paginators are Mealy Machines in disguise](http://www.alfredodinapoli.com/posts/2016-09-10-paginators-are-mealy-machines-in-disguise.html)
 
 Date: 13-04-2017
