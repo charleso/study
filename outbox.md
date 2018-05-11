@@ -4,6 +4,30 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## Distributed Code Review
+
+Partly inspired by the Jane Street blog post:
+
+https://blog.janestreet.com/putting-the-i-back-in-ide-towards-a-github-explorer/
+
+I've been thinking about this (again) since I left Ambiata.
+Just on a whim I did a random search and found this project from 2 years back:
+
+https://github.com/google/git-appraise
+
+Pros:
+
+- Simple
+- Distributed
+- Supports fetching from Github
+- Has (read only) local web support
+
+The big hurdle for me is switching the team over, which is always tricky.
+Having the ability to gradually migrate would be nice (if not essential).
+I'm still not sure how (or _if_ it's even possible) to implement a 1:1
+sync.
+
+
 ## Nix Stuffing Around
 
 I couldn't mount a `/nix` volume without errors from the installer and
