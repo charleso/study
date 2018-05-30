@@ -4,6 +4,8 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## [Developing Expertise](https://www.infoq.com/presentations/Developing-Expertise-Dave-Thomas)
+
 ## Distributed Code Review
 
 Partly inspired by the Jane Street blog post:
