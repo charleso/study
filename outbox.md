@@ -4,14 +4,19 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## [Immutability Changes Everything](https://vimeo.com/52831373)
+
+- Date: 31-05-2018
+- Author: Pat Helland
+
 ## [CRDTs and the Quest for Distributed Consistency](https://www.infoq.com/presentations/crdt-distributed-consistency)
 
-- Date: 31-05-2017
+- Date: 31-05-2018
 - Author: Martin Kleppmann
 
 ## [Developing Expertise](https://www.infoq.com/presentations/Developing-Expertise-Dave-Thomas)
 
-- Date: 31-05-2017
+- Date: 31-05-2018
 
 ## Distributed Code Review
 
