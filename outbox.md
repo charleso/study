@@ -6,12 +6,12 @@ A stream of notes from things I have watched/read.
 
 ## [CRDTs and the Quest for Distributed Consistency](https://www.infoq.com/presentations/crdt-distributed-consistency)
 
-Data: 31-05-2017
-Author: Martin Kleppmann
+- Date: 31-05-2017
+- Author: Martin Kleppmann
 
 ## [Developing Expertise](https://www.infoq.com/presentations/Developing-Expertise-Dave-Thomas)
 
-Data: 31-05-2017
+- Date: 31-05-2017
 
 ## Distributed Code Review
 
