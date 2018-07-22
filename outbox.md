@@ -4,6 +4,15 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## SBT Source Builds (sub-project)
+
+- https://github.com/sbt/sbt/issues/2901
+- https://stackoverflow.com/questions/20083564/can-multi-projects-from-git-be-used-as-sbt-dependencies
+- http://blog.xebia.com/git-subproject-compile-time-dependencies-in-sbt/
+
+Turns out you can't use `ProjectRef` for the `.` root project. Any other project is fine.
+There's almost certainly a way to fix this behaviour, but I couldn't work it out.
+
 ## [Immutability Changes Everything](https://vimeo.com/52831373)
 
 - Date: 31-05-2018
