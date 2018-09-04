@@ -4,6 +4,12 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## Development Metrics You Should Use But Don't
+
+- https://www.infoq.com/presentations/metrics-visualize-team-reliability
+
+Tools to visualize a team’s reliability and variability of delivery using the data already collected..
+
 ## SBT Source Builds (sub-project)
 
 - https://github.com/sbt/sbt/issues/2901
