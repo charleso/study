@@ -9,6 +9,13 @@ tool for doing reviews locally.
 - https://blog.janestreet.com/putting-the-i-back-in-ide-towards-a-github-explorer/
 
 
+## Recent
+
+- https://github.com/MichaelMure/git-bug
+- https://github.com/google/git-appraise
+- https://github.com/neithernut/git-dit
+
+
 ## [SD](http://syncwith.us/sd/)
 
 I love that this had support from "pulling" from different types of issue
