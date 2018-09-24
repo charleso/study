@@ -4,6 +4,12 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## Lean vs Agile thinking
+
+https://www.infoq.com/presentations/lean-agile-design-thinking
+
+A nice summary of using principals from agile/lean rather than the processes.
+
 ## Development Metrics You Should Use But Don't
 
 - https://www.infoq.com/presentations/metrics-visualize-team-reliability
