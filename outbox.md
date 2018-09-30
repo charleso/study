@@ -4,6 +4,15 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## Your Project Behaves Like a Hurricane. Forecast It Like One
+
+https://www.infoq.com/presentations/predictable-projects-continuous-forecasting
+
+Makes a nice analogy between forecasting hurricanes and how we should
+_always_ use probability when forecasting projects.
+Apparently the start/end dates are enought to start to do that.
+No mention of story points.
+
 ## Lean vs Agile thinking
 
 https://www.infoq.com/presentations/lean-agile-design-thinking
