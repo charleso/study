@@ -4,6 +4,13 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## Hve Bucketing in Apache Spark
+
+https://www.slideshare.net/TejasPatil1/hive-bucketing-in-apache-spark
+
+I was wondering if it was possible to zip n-files in spark without
+having to shuffle and this looks like exactly what I (think I) want.
+
 ## Your Project Behaves Like a Hurricane. Forecast It Like One
 
 https://www.infoq.com/presentations/predictable-projects-continuous-forecasting
