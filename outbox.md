@@ -4,6 +4,41 @@ Outbox
 A stream of notes from things I have watched/read.
 
 
+## 1968
+
+- Date: 18-10-2018
+- Who: Kevlin Henney
+
+https://www.infoq.com/presentations/1-9-6-8
+
+Talks about the original "Software Engineering" report released
+in 1968, and just how much of the ideas at the time are still
+just as relevant.
+
+
+## Dependently Typed State Machines
+
+- Date: 18-10-2018
+- Where: Compose Melbourne 2018
+- Who: Tim McGilchrist
+
+https://www.youtube.com/watch?v=AgRmpMPCKeU
+
+Walking through the ST library in Idris.
+
+
+## Appetite for dysfunction
+
+- Date: 18-10-2018
+- Where: Compose Melbourne 2018
+- Who: Andrew McCluskey
+
+https://www.youtube.com/watch?v=k8k2rwWImy8
+
+Shows creating state-based Hedgehog property tests for wordpress.
+Spends half the time showing off the Haskell and NixOS kit for
+building the tests.
+
 ## Hve Bucketing in Apache Spark
 
 https://www.slideshare.net/TejasPatil1/hive-bucketing-in-apache-spark
