@@ -1,8 +1,23 @@
 Build
 =====
 
+- [redo](#redo)
 - [Nix](#nix)
 - [Annex](#annex)
+
+
+## Redo
+
+After hearing about the complexity of Nix I started to wonder what a simpler
+version of it would look like. Just shell with a magic command or two to
+only run a sub-command if the arguments had changed.
+
+Redo isn't quite the same thing, it's more about the output target, which
+I think isn't ideal, but it's amazing just how close this was to what I
+had in mind.
+
+- https://github.com/apenwarr/redo
+- https://apenwarr.ca/log/20181106
 
 
 ## Nix
