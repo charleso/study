@@ -3,6 +3,16 @@ Outbox
 
 A stream of notes from things I have watched/read.
 
+## CRDTs
+
+- http://archagon.net/blog/2018/03/24/data-laced-with-history/
+  - Comment from archagon: https://news.ycombinator.com/item?id=17742071
+ 
+- https://www.infoq.com/presentations/github-crdt
+
+  Bit sad, looks like it's been put on hold:
+  - https://www.reddit.com/r/rust/comments/bdf3lx/we_need_to_save_xray/
+
 
 ## 1968
 
