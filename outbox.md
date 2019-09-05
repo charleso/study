@@ -3,6 +3,15 @@ Outbox
 
 A stream of notes from things I have watched/read.
 
+## Batch Data Pipelines
+
+- https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a
+
+Really good summary of batch data pipelines that benefit from FP principals.
+Reminds me of Mark's talk.
+
+https://www.youtube.com/watch?v=Wa9k5GddaEk
+
 ## CRDTs
 
 - http://archagon.net/blog/2018/03/24/data-laced-with-history/
