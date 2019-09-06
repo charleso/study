@@ -3,6 +3,13 @@ Outbox
 
 A stream of notes from things I have watched/read.
 
+## AWS re:Invent 2018: The Theory and Math Behind Data Privacy and Security Assurance (SEC301)
+
+- https://www.youtube.com/watch?v=F3JmBhTQmyY
+
+Cool and very practical use of SMT solver from an AWS product/tool that can do complex assertions
+against IAM rules.
+
 ## Batch Data Pipelines
 
 - https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a
