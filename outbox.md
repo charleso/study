@@ -3,6 +3,12 @@ Outbox
 
 A stream of notes from things I have watched/read.
 
+## Outside the Closed World: On Using Machine Learning For Network Intrusion Detection
+
+What a good paper. Summarizes all the problems we have seen at work almost exactly.
+
+- https://personal.utdallas.edu/~muratk/courses/dmsec_files/oakland10-ml.pdf
+
 ## AWS re:Invent 2018: The Theory and Math Behind Data Privacy and Security Assurance (SEC301)
 
 - https://www.youtube.com/watch?v=F3JmBhTQmyY
