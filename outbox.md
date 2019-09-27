@@ -3,6 +3,12 @@ Outbox
 
 A stream of notes from things I have watched/read.
 
+## Scala and the Visitor Pattern
+
+I like the separation between internal vs external vistors/folds.
+
+- https://meta.plasm.us/posts/2019/09/23/scala-and-the-visitor-pattern/
+
 ## Outside the Closed World: On Using Machine Learning For Network Intrusion Detection
 
 What a good paper. Summarizes all the problems we have seen at work almost exactly.
