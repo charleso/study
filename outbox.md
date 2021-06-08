@@ -3,6 +3,10 @@ Outbox
 
 A stream of notes from things I have watched/read.
 
+## “Stories” Don’t Tell a Story: Good Sprint Planning Uses Milestones
+
+https://cgroom.medium.com/stories-dont-tell-a-story-good-sprint-planning-uses-milestones-a71326aa8849
+
 ## Scala and the Visitor Pattern
 
 I like the separation between internal vs external vistors/folds.
